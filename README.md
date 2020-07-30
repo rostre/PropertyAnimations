@@ -19,17 +19,11 @@ Every click will create a new star, animating in parallel with the existing star
 
 ## Screenshots
 
-![Gif1](gifs/rotate.gif)
+![Gif1](gifs/rotate.gif)    ![Gif2](gifs/translate.gif)
 
-![Gif1](gifs/translate.gif)
+![Gif3](gifs/scale.gif)     ![Gif4](gifs/fade.gif)
 
-![Gif1](gifs/scale.gif)
-
-![Gif1](gifs/fade.gif)
-
-![Gif1](gifs/bg_color.gif)
-
-![Gif1](gifs/shower.gif)
+![Gif5](gifs/bg_color.gif)  ![Gif6](gifs/shower.gif)
 
 
 
